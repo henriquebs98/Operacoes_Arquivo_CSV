@@ -1,0 +1,39 @@
+c:\users\re035888\documents\visual studio 2012\Projects\ProjetoImportacao\ProjetoImportacao\bin\Debug\ProjetoImportacao.exe.config
+c:\users\re035888\documents\visual studio 2012\Projects\ProjetoImportacao\ProjetoImportacao\bin\Debug\ProjetoImportacao.exe
+c:\users\re035888\documents\visual studio 2012\Projects\ProjetoImportacao\ProjetoImportacao\bin\Debug\ProjetoImportacao.pdb
+c:\users\re035888\documents\visual studio 2012\Projects\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.FormResultado.resources
+c:\users\re035888\documents\visual studio 2012\Projects\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.Properties.Resources.resources
+c:\users\re035888\documents\visual studio 2012\Projects\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.csproj.GenerateResource.Cache
+c:\users\re035888\documents\visual studio 2012\Projects\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.exe
+c:\users\re035888\documents\visual studio 2012\Projects\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.pdb
+C:\Users\re035888\Documents\Visual Studio 2012\Projects\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.csprojResolveAssemblyReference.cache
+D:\Projetos\ExportaçãoResultado\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\bin\Debug\ProjetoImportacao.exe.config
+D:\Projetos\ExportaçãoResultado\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.exe
+D:\Projetos\ExportaçãoResultado\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.pdb
+D:\Projetos\ExportaçãoResultado\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\bin\Debug\ProjetoImportacao.exe
+D:\Projetos\ExportaçãoResultado\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\bin\Debug\ProjetoImportacao.pdb
+D:\Projetos\ExportaçãoResultado\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.csprojResolveAssemblyReference.cache
+D:\Projetos\ExportaçãoResultado\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.FormResultado.resources
+D:\Projetos\ExportaçãoResultado\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.Properties.Resources.resources
+D:\Projetos\ExportaçãoResultado\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.csproj.GenerateResource.Cache
+C:\Users\resource\Desktop\Projetos_Microsoft_dotNET-master\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\bin\Debug\ProjetoImportacao.exe.config
+C:\Users\resource\Desktop\Projetos_Microsoft_dotNET-master\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.exe
+C:\Users\resource\Desktop\Projetos_Microsoft_dotNET-master\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.pdb
+C:\Users\resource\Desktop\Projetos_Microsoft_dotNET-master\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\bin\Debug\ProjetoImportacao.exe
+C:\Users\resource\Desktop\Projetos_Microsoft_dotNET-master\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\bin\Debug\ProjetoImportacao.pdb
+C:\Users\resource\Desktop\Projetos_Microsoft_dotNET-master\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.csprojResolveAssemblyReference.cache
+C:\Users\resource\Desktop\Projetos_Microsoft_dotNET-master\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.FormResultado.resources
+C:\Users\resource\Desktop\Projetos_Microsoft_dotNET-master\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.Properties.Resources.resources
+C:\Users\resource\Desktop\Projetos_Microsoft_dotNET-master\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.csproj.GenerateResource.Cache
+C:\Users\resource\Desktop\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\bin\Debug\ProjetoImportacao.exe.config
+C:\Users\resource\Desktop\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.exe
+C:\Users\resource\Desktop\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.pdb
+C:\Users\resource\Desktop\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\bin\Debug\ProjetoImportacao.exe
+C:\Users\resource\Desktop\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\bin\Debug\ProjetoImportacao.pdb
+C:\Users\resource\Desktop\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.csprojResolveAssemblyReference.cache
+C:\Users\resource\Desktop\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.FormResultado.resources
+C:\Users\resource\Desktop\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.Properties.Resources.resources
+C:\Users\resource\Desktop\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.csproj.GenerateResource.Cache
+C:\Users\resource\Documents\Documentos\Pessoais\Projetos\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\bin\Debug\ProjetoImportacao.exe.config
+C:\Users\resource\Documents\Documentos\Pessoais\Projetos\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.exe
+C:\Users\resource\Documents\Documentos\Pessoais\Projetos\Importação e processamento de arquivo CSV\Projeto Windows Forms\ProjetoImportacao\ProjetoImportacao\obj\Debug\ProjetoImportacao.pdb
